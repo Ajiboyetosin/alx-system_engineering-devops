@@ -1,1 +1,1 @@
-create a script that creates a directory in a parent directory
+ a script that creates a named directory in a parent directory
